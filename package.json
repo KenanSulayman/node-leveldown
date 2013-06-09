@@ -30,6 +30,7 @@
       , "abstract-leveldown"  : "~0.7.0"
       , "monotonic-timestamp" : "~0.0.8"
       , "du"                  : "~0.0.1"
+      , "uuid"                : "~1.4.0"
     }
   , "repository"      : {
         "type"            : "git"
